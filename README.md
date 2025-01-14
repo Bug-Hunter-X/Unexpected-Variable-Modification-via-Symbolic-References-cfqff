@@ -1,0 +1,1 @@
+This example demonstrates a potential issue with Perl's symbolic references. The code modifies a variable indirectly, which can make it difficult to track changes and potentially introduce bugs.  The solution shows a safer approach using explicit variable assignment.
